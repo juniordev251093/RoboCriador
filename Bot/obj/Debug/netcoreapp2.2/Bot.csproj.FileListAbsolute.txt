@@ -1,0 +1,11 @@
+C:\Users\flavio.junior\source\repos\Bot\Bot\bin\Debug\netcoreapp2.2\Bot.deps.json
+C:\Users\flavio.junior\source\repos\Bot\Bot\bin\Debug\netcoreapp2.2\Bot.runtimeconfig.json
+C:\Users\flavio.junior\source\repos\Bot\Bot\bin\Debug\netcoreapp2.2\Bot.runtimeconfig.dev.json
+C:\Users\flavio.junior\source\repos\Bot\Bot\bin\Debug\netcoreapp2.2\Bot.dll
+C:\Users\flavio.junior\source\repos\Bot\Bot\bin\Debug\netcoreapp2.2\Bot.pdb
+C:\Users\flavio.junior\source\repos\Bot\Bot\obj\Debug\netcoreapp2.2\Bot.csprojAssemblyReference.cache
+C:\Users\flavio.junior\source\repos\Bot\Bot\obj\Debug\netcoreapp2.2\Bot.csproj.CoreCompileInputs.cache
+C:\Users\flavio.junior\source\repos\Bot\Bot\obj\Debug\netcoreapp2.2\Bot.AssemblyInfoInputs.cache
+C:\Users\flavio.junior\source\repos\Bot\Bot\obj\Debug\netcoreapp2.2\Bot.AssemblyInfo.cs
+C:\Users\flavio.junior\source\repos\Bot\Bot\obj\Debug\netcoreapp2.2\Bot.dll
+C:\Users\flavio.junior\source\repos\Bot\Bot\obj\Debug\netcoreapp2.2\Bot.pdb
