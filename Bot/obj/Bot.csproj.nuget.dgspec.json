@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flavio.junior\\source\\repos\\Bot\\Bot\\Bot.csproj": {}
+    "C:\\Users\\flavio.junior\\source\\repos\\RoboCriador2\\Bot\\Bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flavio.junior\\source\\repos\\Bot\\Bot\\Bot.csproj": {
+    "C:\\Users\\flavio.junior\\source\\repos\\RoboCriador2\\Bot\\Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flavio.junior\\source\\repos\\Bot\\Bot\\Bot.csproj",
+        "projectUniqueName": "C:\\Users\\flavio.junior\\source\\repos\\RoboCriador2\\Bot\\Bot.csproj",
         "projectName": "Bot",
-        "projectPath": "C:\\Users\\flavio.junior\\source\\repos\\Bot\\Bot\\Bot.csproj",
+        "projectPath": "C:\\Users\\flavio.junior\\source\\repos\\RoboCriador2\\Bot\\Bot.csproj",
         "packagesPath": "C:\\Users\\flavio.junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flavio.junior\\source\\repos\\Bot\\Bot\\obj\\",
+        "outputPath": "C:\\Users\\flavio.junior\\source\\repos\\RoboCriador2\\Bot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
